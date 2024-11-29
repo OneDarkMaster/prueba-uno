@@ -1,5 +1,5 @@
 nombre = "Carlos"
-apellido = "dalto"
+apellido = "Sanchez"
 print("Hola " + nombre + apellido + "¿Cómo estas?");
 saludo = "Hola " + nombre + apellido
 
